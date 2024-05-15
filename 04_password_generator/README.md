@@ -2,6 +2,12 @@
 
 A web app which generates random password of variable length using English alphabet, numbers and special characters.
 
+## React Hooks Used
+
+- useState(): To manage the state of various elements.
+- useCallback(): To optimize the re-rendering.
+- useEffect(): To re-render the app upon desired events.
+- useRef(): To access a DOM element.
 
 ----
 
