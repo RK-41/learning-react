@@ -11,9 +11,9 @@ A web app which generates random password of variable length using English alpha
 
 ## App's Snapshot
 
-![s1](https://github.com/RK-41/learning-react/assets/73783957/b462812d-7e59-401e-9d3b-a7bb032c48b1)
-![s2](https://github.com/RK-41/learning-react/assets/73783957/79e50507-ced1-49a2-aa2b-38ae17736ae4)
-![s3](https://github.com/RK-41/learning-react/assets/73783957/047df92e-9fcf-426d-8ef5-a62861ef8723)
+<img src="https://github.com/RK-41/learning-react/assets/73783957/b462812d-7e59-401e-9d3b-a7bb032c48b1" alt="s1" width="330"/>
+<img src="https://github.com/RK-41/learning-react/assets/73783957/79e50507-ced1-49a2-aa2b-38ae17736ae4" alt="s2" width="330"/>
+<img src="https://github.com/RK-41/learning-react/assets/73783957/047df92e-9fcf-426d-8ef5-a62861ef8723" alt="s3" width="330"/>
 
 ----
 
