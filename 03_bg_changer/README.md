@@ -1,3 +1,10 @@
+# Background Color Changer
+
+A small project which employs the use of useState() hook to change the background color of the web page using input from various buttons.
+
+
+----
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
