@@ -1,3 +1,12 @@
+# React Router and Its Applications
+
+A demo web app built using React and React Router for efficient client-side routing.
+
+- This application leverages the `NavLink` component from React Router to provide a seamless and interactive navigation experience.
+- The intuitive routing structure ensures that users can easily navigate through different sections of the app, enhancing usability and performance.
+
+---
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
