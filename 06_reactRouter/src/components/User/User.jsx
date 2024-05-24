@@ -7,9 +7,9 @@ function User() {
 		<div>
 			<div className='page-heading'>User</div>
 
-			<p className='text-center my-10 font-bold'>
+			<div className='text-center my-10 font-bold'>
 				{userid && <h3>User ID: {userid}</h3>}
-			</p>
+			</div>
 		</div>
 	);
 }
