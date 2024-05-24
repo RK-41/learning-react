@@ -6,10 +6,18 @@ A demo web app built using React and React Router for efficient client-side rout
 - The intuitive routing structure ensures that users can easily navigate through different sections of the app, enhancing usability and performance.
 
 ## App's Snaps
-<img src="https://github.com/RK-41/learning-react/assets/73783957/8b61c633-753d-44e0-8230-b964e99f147d" alt="06_react_router_s1" width="450px">
-<img src="https://github.com/RK-41/learning-react/assets/73783957/44a8badb-f814-494f-8cef-87113052a512" alt="06_react_router_s2" width="450px">
-<img src="https://github.com/RK-41/learning-react/assets/73783957/d3b424ed-2a8f-44cc-8fc7-f775c13b7fbf" alt="06_react_router_s3" width="450px">
-<img src="https://github.com/RK-41/learning-react/assets/73783957/df59664a-9931-4725-856a-633d18437995" alt="06_react_router_s4" width="450px">
+<img src="https://github.com/RK-41/learning-react/assets/73783957/574dc223-9f89-493b-ad22-9e71383d1293" alt="06_react_router_s1" width="450px">
+<img src="https://github.com/RK-41/learning-react/assets/73783957/f2502bdf-0e28-4e1d-affd-3591b63a768a" alt="06_react_router_s2" width="450px">
+<img src="https://github.com/RK-41/learning-react/assets/73783957/cf108ea8-9e9d-4a71-a62b-4f0cbdcea895" alt="06_react_router_s3" width="450px">
+<img src="https://github.com/RK-41/learning-react/assets/73783957/31218d26-90d3-4dcd-8d0b-e81920e1743d" alt="06_react_router_s4" width="450px">
+<img src="https://github.com/RK-41/learning-react/assets/73783957/2b32cc3e-b762-4a96-bdc5-7e1eca06ce96" alt="06_react_router_s5" width="450px">
+<img src="https://github.com/RK-41/learning-react/assets/73783957/3f992e81-e40c-4286-ae2d-6aadb0ad16ae" alt="06_react_router_s6" width="450px">
+<!-- ![06_react_router_s1](https://github.com/RK-41/learning-react/assets/73783957/574dc223-9f89-493b-ad22-9e71383d1293)
+![06_react_router_s2](https://github.com/RK-41/learning-react/assets/73783957/f2502bdf-0e28-4e1d-affd-3591b63a768a)
+![06_react_router_s3](https://github.com/RK-41/learning-react/assets/73783957/cf108ea8-9e9d-4a71-a62b-4f0cbdcea895)
+![06_react_router_s4](https://github.com/RK-41/learning-react/assets/73783957/31218d26-90d3-4dcd-8d0b-e81920e1743d)
+![06_react_router_s5](https://github.com/RK-41/learning-react/assets/73783957/2b32cc3e-b762-4a96-bdc5-7e1eca06ce96)
+![06_react_router_s6](https://github.com/RK-41/learning-react/assets/73783957/3f992e81-e40c-4286-ae2d-6aadb0ad16ae) -->
 
 ---
 
