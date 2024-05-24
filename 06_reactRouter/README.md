@@ -2,8 +2,23 @@
 
 A demo web app built using React and React Router for efficient client-side routing.
 
-- This application leverages the `NavLink` component from React Router to provide a seamless and interactive navigation experience.
-- The intuitive routing structure ensures that users can easily navigate through different sections of the app, enhancing usability and performance.
+## Key Features
+
+- Seamless Navigation with NavLink:
+  - Leverages the NavLink component from React Router for interactive navigation.
+  - Provides a smooth and engaging user experience.
+
+- Intuitive Routing Structure:
+  - Ensures easy navigation through different sections of the app.
+  - Enhances usability and performance for a better user experience.
+
+- Dynamic Routing with useParams():
+  - Extracts route parameters to create dynamic routes.
+  - Facilitates the display of user-specific or context-specific information based on the URL.
+
+- Efficient Data Loading with useLoaderData():
+  - Simplifies data loading for routes in react-router-dom.
+  - Ensures data is available before the component renders, leading to a smoother user experience and more efficient data handling.
 
 ## App's Snaps
 <img src="https://github.com/RK-41/learning-react/assets/73783957/574dc223-9f89-493b-ad22-9e71383d1293" alt="06_react_router_s1" width="450px">
