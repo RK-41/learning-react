@@ -8,7 +8,7 @@ function Header() {
 					<NavLink
 						to='/'
 						className={({ isActive, isPending }) =>
-							isPending ? 'text-yellow-500' : isActive ? 'text-blue-800' : ''
+							isPending ? 'text-yellow-500' : isActive ? 'text-[#0000ff]' : ''
 						}
 					>
 						icon
@@ -19,7 +19,7 @@ function Header() {
 					<NavLink
 						to='/'
 						className={({ isActive, isPending }) =>
-							isPending ? 'text-yellow-500' : isActive ? 'text-blue-800' : ''
+							isPending ? 'text-yellow-500' : isActive ? 'text-[#0000ff]' : ''
 						}
 					>
 						Home
@@ -27,7 +27,7 @@ function Header() {
 					<NavLink
 						to='about'
 						className={({ isActive, isPending }) =>
-							isPending ? 'text-yellow-500' : isActive ? 'text-blue-800' : ''
+							isPending ? 'text-yellow-500' : isActive ? 'text-[#0000ff]' : ''
 						}
 					>
 						About
@@ -35,10 +35,26 @@ function Header() {
 					<NavLink
 						to='contact'
 						className={({ isActive, isPending }) =>
-							isPending ? 'text-yellow-500' : isActive ? 'text-blue-800' : ''
+							isPending ? 'text-yellow-500' : isActive ? 'text-[#0000ff]' : ''
 						}
 					>
 						Contact
+					</NavLink>
+					<NavLink
+						to='github'
+						className={({ isActive, isPending }) =>
+							isPending ? 'text-yellow-500' : isActive ? 'text-[#0000ff]' : ''
+						}
+					>
+						GitHub
+					</NavLink>
+					<NavLink
+						to='user'
+						className={({ isActive, isPending }) =>
+							isPending ? 'text-yellow-500' : isActive ? 'text-[#0000ff]' : ''
+						}
+					>
+						User
 					</NavLink>
 				</div>
 			</nav>
