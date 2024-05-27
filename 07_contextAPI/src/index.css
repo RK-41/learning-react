@@ -68,7 +68,7 @@ button:focus-visible {
 	background-color: #ffffff;
 }
 
-input[type='password'] {
+input {
 	color: black;
 }
 
