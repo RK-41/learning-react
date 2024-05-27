@@ -5,7 +5,7 @@ function Login() {
 	const [username, setUsername] = useState('');
 	const [password, setPassword] = useState('');
 
-	const { setUser } = useContext(UserContext);
+	const { user, setUser } = useContext(UserContext);
 
 	const handleSubmit = (e) => {
 		e.preventDefault();
@@ -18,6 +18,12 @@ function Login() {
 		console.log({ username, password });
 		setUsername('');
 		setPassword('');
+	};
+
+	const handleLogout = (e) => {
+		e.preventDefault();
+
+		setUser(null);
 	};
 
 	return (
@@ -42,6 +48,8 @@ function Login() {
 					placeholder='password'
 				/>
 				<button onClick={handleSubmit}>Login</button>
+
+				{user && <button onClick={handleLogout}>Logout</button>}
 			</form>
 		</div>
 	);
